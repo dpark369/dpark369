@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Park
+# 👋 Hi, I’m Daniel Park
 
 ## About Me
 I was a chemical engineering student in University of Illinois. After achieving my goal of attending a good school, I was lost, without a goal, not
