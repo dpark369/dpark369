@@ -20,7 +20,7 @@ NPM, Express, EJS, Mongo DB and Bootstrap. However, I am growing as a web develo
 * Golf
 * Listening to Music (I usually listen to Rap/R&B but I recently got into Scandinavian Jazz)
 * Video Games(Open World games like Skyrim, League of Legends, Valorant)
-* Watching TV Shows (Rick and Morty, Game of Thrones, Squid Game)
+* Watching TV Shows (Rick and Morty, Game of Thrones, Ted Lasso)
 
 ## Contact me!
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/dpark369)
